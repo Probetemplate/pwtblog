@@ -255,9 +255,5 @@
 
 </AppShell>
 
-<style>
-  .body{
-    height: auto;
-    min-height: 100vh;
-  }
-</style>
+
+  
